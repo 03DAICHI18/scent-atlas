@@ -138,19 +138,25 @@
     "id": "fragrance-003",
     "brand": "Le Labo",
     "name": "THÉ MATCHA 26",
-    "name_ja": null,
-    "concentration": null,
+    "name_ja": "マッチャ 26",
+    "concentration": "EDP",
     "release_year": null,
     "prices": [],
     "sales_status": "unknown",
-    "official_url": null,
+    "official_url": "https://www.lelabofragrances.com/th-matcha-26-911.html",
     "image": {
       "url": null,
       "rights": "unconfirmed"
     },
-    "publication_status": "pending",
+    "publication_status": "published",
     "facts": {
-      "notes": [],
+      "notes": [
+        "抹茶アコード",
+        "フィグ",
+        "ベチバー",
+        "シダー",
+        "ビターオレンジ"
+      ],
       "note_pyramid": null
     },
     "inference": {
@@ -173,7 +179,20 @@
       "reason": null,
       "type": "ai_inference"
     },
-    "sources": [],
+    "sources": [
+      {
+        "name": "Le Labo 公式商品ページ",
+        "url": "https://www.lelabofragrances.com/th-matcha-26-911.html",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ],
     "legacy": {
       "id": "fragrance-003",
       "brand": "Le Labo",
@@ -255,19 +274,27 @@
     "id": "fragrance-005",
     "brand": "Le Labo",
     "name": "THÉ NOIR 29",
-    "name_ja": null,
-    "concentration": null,
+    "name_ja": "テ ノワール 29",
+    "concentration": "EDP",
     "release_year": null,
     "prices": [],
     "sales_status": "unknown",
-    "official_url": null,
+    "official_url": "https://www.lelabofragrances.com/th-noir-29-148.html",
     "image": {
       "url": null,
       "rights": "unconfirmed"
     },
-    "publication_status": "pending",
+    "publication_status": "published",
     "facts": {
-      "notes": [],
+      "notes": [
+        "ベルガモット",
+        "フィグ",
+        "ベイリーフ",
+        "シダー",
+        "ベチバー",
+        "ムスク",
+        "ブラックティー"
+      ],
       "note_pyramid": null
     },
     "inference": {
@@ -288,7 +315,20 @@
       "reason": null,
       "type": "ai_inference"
     },
-    "sources": [],
+    "sources": [
+      {
+        "name": "Le Labo 公式商品ページ",
+        "url": "https://www.lelabofragrances.com/th-noir-29-148.html",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ],
     "legacy": {
       "id": "fragrance-005",
       "brand": "Le Labo",
@@ -1460,19 +1500,30 @@
     "id": "fragrance-026",
     "brand": "SHIRO",
     "name": "WHITE LILY",
-    "name_ja": null,
-    "concentration": null,
+    "name_ja": "ホワイトリリー",
+    "concentration": "EDP",
     "release_year": null,
     "prices": [],
     "sales_status": "unknown",
-    "official_url": null,
+    "official_url": "https://shiro-shiro.jp/ec/pro/disp/1/12722",
     "image": {
       "url": null,
       "rights": "unconfirmed"
     },
-    "publication_status": "pending",
+    "publication_status": "published",
     "facts": {
-      "notes": [],
+      "notes": [
+        "ベルガモット",
+        "ブラックカラント",
+        "グリーン",
+        "リリー",
+        "ジャスミン",
+        "ローズ",
+        "マグノリア",
+        "アンバー",
+        "サンダルウッド",
+        "ムスク"
+      ],
       "note_pyramid": null
     },
     "inference": {
@@ -1491,7 +1542,20 @@
       "reason": null,
       "type": "ai_inference"
     },
-    "sources": [],
+    "sources": [
+      {
+        "name": "SHIRO 公式商品ページ",
+        "url": "https://shiro-shiro.jp/ec/pro/disp/1/12722",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ],
     "legacy": {
       "id": "fragrance-026",
       "brand": "SHIRO",
@@ -1564,5 +1628,305 @@
       "description": "お茶の落ち着きと爽やかさ。",
       "source_status": "editorial_unverified"
     }
+  },
+  {
+    "id": "fragrance-028",
+    "brand": "4711",
+    "name": "Original Eau de Cologne",
+    "name_ja": null,
+    "concentration": "EDC",
+    "release_year": null,
+    "prices": [],
+    "sales_status": "unknown",
+    "official_url": "https://4711.com/en/products/4711-echt-kolnisch-wasser-splash",
+    "image": {
+      "url": null,
+      "rights": "unconfirmed"
+    },
+    "publication_status": "published",
+    "facts": {
+      "notes": [
+        "レモン",
+        "ベルガモット",
+        "オレンジ",
+        "ラベンダー",
+        "ローズマリー",
+        "ネロリ",
+        "プチグレン"
+      ],
+      "note_pyramid": null
+    },
+    "inference": {
+      "family": "シトラス",
+      "texture": [
+        "フレッシュ"
+      ],
+      "mood": [
+        "カジュアル"
+      ],
+      "seasons": [
+        "春",
+        "夏"
+      ],
+      "times": [
+        "昼"
+      ],
+      "scenes": [
+        "昼一人で外出"
+      ],
+      "description": "レモン・ベルガモットを手がかりに、爽やかな印象が想像できる香り。",
+      "reason": "柑橘のノートから、日中の外出に合わせる提案です。",
+      "type": "ai_inference"
+    },
+    "sources": [
+      {
+        "name": "4711 公式商品ページ",
+        "url": "https://4711.com/en/products/4711-echt-kolnisch-wasser-splash",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fragrance-029",
+    "brand": "4711",
+    "name": "Acqua Colonia Blood Orange & Basil",
+    "name_ja": null,
+    "concentration": "EDC",
+    "release_year": null,
+    "prices": [],
+    "sales_status": "unknown",
+    "official_url": "https://4711.com/en/products/4711-acqua-colonia-blood-orange-basil",
+    "image": {
+      "url": null,
+      "rights": "unconfirmed"
+    },
+    "publication_status": "published",
+    "facts": {
+      "notes": [
+        "ブラッドオレンジ",
+        "バジル"
+      ],
+      "note_pyramid": null
+    },
+    "inference": {
+      "family": "シトラス",
+      "texture": [
+        "フレッシュ"
+      ],
+      "mood": [
+        "カジュアル"
+      ],
+      "seasons": [
+        "春",
+        "夏"
+      ],
+      "times": [
+        "昼"
+      ],
+      "scenes": [
+        "昼一人で外出"
+      ],
+      "description": "ブラッドオレンジ・バジルを手がかりに、爽やかな印象が想像できる香り。",
+      "reason": "柑橘のノートから、日中の外出に合わせる提案です。",
+      "type": "ai_inference"
+    },
+    "sources": [
+      {
+        "name": "4711 公式商品ページ",
+        "url": "https://4711.com/en/products/4711-acqua-colonia-blood-orange-basil",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fragrance-030",
+    "brand": "4711",
+    "name": "Acqua Colonia Lemon & Ginger",
+    "name_ja": null,
+    "concentration": "EDC",
+    "release_year": null,
+    "prices": [],
+    "sales_status": "unknown",
+    "official_url": "https://4711.com/en/products/4711-acqua-colonia-lemon-ginger",
+    "image": {
+      "url": null,
+      "rights": "unconfirmed"
+    },
+    "publication_status": "published",
+    "facts": {
+      "notes": [
+        "レモン",
+        "ジンジャー"
+      ],
+      "note_pyramid": null
+    },
+    "inference": {
+      "family": "シトラス",
+      "texture": [
+        "フレッシュ"
+      ],
+      "mood": [
+        "カジュアル"
+      ],
+      "seasons": [
+        "春",
+        "夏"
+      ],
+      "times": [
+        "昼"
+      ],
+      "scenes": [
+        "昼一人で外出"
+      ],
+      "description": "レモン・ジンジャーを手がかりに、爽やかな印象が想像できる香り。",
+      "reason": "柑橘のノートから、日中の外出に合わせる提案です。",
+      "type": "ai_inference"
+    },
+    "sources": [
+      {
+        "name": "4711 公式商品ページ",
+        "url": "https://4711.com/en/products/4711-acqua-colonia-lemon-ginger",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fragrance-031",
+    "brand": "4711",
+    "name": "Acqua Colonia Yuzu & Cedarwood",
+    "name_ja": null,
+    "concentration": "EDC",
+    "release_year": null,
+    "prices": [],
+    "sales_status": "unknown",
+    "official_url": "https://4711.com/en/products/4711-acqua-colonia-yuzu-cedarwood",
+    "image": {
+      "url": null,
+      "rights": "unconfirmed"
+    },
+    "publication_status": "published",
+    "facts": {
+      "notes": [
+        "ユズ",
+        "シダーウッド"
+      ],
+      "note_pyramid": null
+    },
+    "inference": {
+      "family": "シトラス",
+      "texture": [
+        "フレッシュ"
+      ],
+      "mood": [
+        "カジュアル"
+      ],
+      "seasons": [
+        "春",
+        "夏"
+      ],
+      "times": [
+        "昼"
+      ],
+      "scenes": [
+        "昼一人で外出"
+      ],
+      "description": "ユズ・シダーウッドを手がかりに、爽やかな印象が想像できる香り。",
+      "reason": "柑橘のノートから、日中の外出に合わせる提案です。",
+      "type": "ai_inference"
+    },
+    "sources": [
+      {
+        "name": "4711 公式商品ページ",
+        "url": "https://4711.com/en/products/4711-acqua-colonia-yuzu-cedarwood",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fragrance-032",
+    "brand": "4711",
+    "name": "Acqua Colonia Pink Pepper & Grapefruit",
+    "name_ja": null,
+    "concentration": "EDC",
+    "release_year": null,
+    "prices": [],
+    "sales_status": "unknown",
+    "official_url": "https://4711.com/en/products/4711-acqua-colonia-pink-pepper-grapefruit",
+    "image": {
+      "url": null,
+      "rights": "unconfirmed"
+    },
+    "publication_status": "published",
+    "facts": {
+      "notes": [
+        "ピンクペッパー",
+        "グレープフルーツ"
+      ],
+      "note_pyramid": null
+    },
+    "inference": {
+      "family": "シトラス",
+      "texture": [
+        "フレッシュ"
+      ],
+      "mood": [
+        "カジュアル"
+      ],
+      "seasons": [
+        "春",
+        "夏"
+      ],
+      "times": [
+        "昼"
+      ],
+      "scenes": [
+        "昼一人で外出"
+      ],
+      "description": "ピンクペッパー・グレープフルーツを手がかりに、爽やかな印象が想像できる香り。",
+      "reason": "柑橘のノートから、日中の外出に合わせる提案です。",
+      "type": "ai_inference"
+    },
+    "sources": [
+      {
+        "name": "4711 公式商品ページ",
+        "url": "https://4711.com/en/products/4711-acqua-colonia-pink-pepper-grapefruit",
+        "type": "official",
+        "status": "verified",
+        "checked_at": "2026-10-27",
+        "fields": [
+          "name",
+          "concentration",
+          "notes"
+        ]
+      }
+    ]
   }
 ]
