@@ -1,0 +1,493 @@
+[
+  {
+    "id": "fragrance-001",
+    "brand": "Le Labo",
+    "name": "ANOTHER 13",
+    "family": "ムスキー",
+    "texture": [
+      "クリーン",
+      "エアリー"
+    ],
+    "impression": "センシュアル",
+    "notes": [
+      "アンブロキシド",
+      "ジャスミン",
+      "モス"
+    ],
+    "description": "肌に溶け込むような透明感とムスクの余韻。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-002",
+    "brand": "Le Labo",
+    "name": "GAIAC 10",
+    "family": "ウッディ",
+    "texture": [
+      "ドライ",
+      "ソフト"
+    ],
+    "impression": "インティメイト",
+    "notes": [
+      "ガイアックウッド",
+      "ムスク",
+      "シダー",
+      "オリバナム"
+    ],
+    "description": "静かな木の香りとムスク。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-003",
+    "brand": "Le Labo",
+    "name": "THÉ MATCHA 26",
+    "family": "グリーン",
+    "texture": [
+      "クリーミー",
+      "ソフト"
+    ],
+    "impression": "コンフォーティング",
+    "notes": [
+      "抹茶",
+      "フィグ",
+      "ベチバー",
+      "シダー"
+    ],
+    "description": "お茶と木の柔らかな落ち着き。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-004",
+    "brand": "Le Labo",
+    "name": "AMBRETTE 9",
+    "family": "ムスキー",
+    "texture": [
+      "ソフト",
+      "フルーティ"
+    ],
+    "impression": "クリーン",
+    "notes": [
+      "アンブレット",
+      "フルーティノート"
+    ],
+    "description": "軽く繊細なスキンセント。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-005",
+    "brand": "Le Labo",
+    "name": "THÉ NOIR 29",
+    "family": "ウッディ",
+    "texture": [
+      "ドライ",
+      "スモーキー"
+    ],
+    "impression": "シック",
+    "notes": [
+      "ブラックティー",
+      "フィグ",
+      "シダー",
+      "ベチバー",
+      "ムスク"
+    ],
+    "description": "紅茶と乾いた木の陰影。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-006",
+    "brand": "Diptyque",
+    "name": "ORPHÉON EDP",
+    "family": "ウッディ",
+    "texture": [
+      "パウダリー",
+      "ウォーム"
+    ],
+    "impression": "エレガント",
+    "notes": [
+      "シダー",
+      "トンカビーン",
+      "ジュニパーベリー",
+      "ジャスミン"
+    ],
+    "description": "夜のジャズバーを思わせる温かさ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-007",
+    "brand": "Diptyque",
+    "name": "ORPHÉON EDT",
+    "family": "シトラス",
+    "texture": [
+      "フレッシュ",
+      "シャープ"
+    ],
+    "impression": "ソフィスティケイテッド",
+    "notes": [
+      "グリーンマンダリン",
+      "ジュニパーベリー",
+      "シダー"
+    ],
+    "description": "爽やかで軽快なウッディ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-008",
+    "brand": "Diptyque",
+    "name": "FLEUR DE PEAU",
+    "family": "ムスキー",
+    "texture": [
+      "パウダリー",
+      "ベルベッティ"
+    ],
+    "impression": "センシュアル",
+    "notes": [
+      "ムスク",
+      "アイリス",
+      "アンブレット",
+      "ピンクペッパー"
+    ],
+    "description": "肌の温度を感じる柔らかなパウダリー。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-009",
+    "brand": "Diptyque",
+    "name": "TAM DAO",
+    "family": "ウッディ",
+    "texture": [
+      "ドライ",
+      "クリーミー"
+    ],
+    "impression": "シック",
+    "notes": [
+      "サンダルウッド",
+      "シダー",
+      "サイプレス"
+    ],
+    "description": "静謐な木の香り。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-010",
+    "brand": "Diptyque",
+    "name": "L’OMBRE DANS L’EAU",
+    "family": "グリーン",
+    "texture": [
+      "ウェット",
+      "フレッシュ"
+    ],
+    "impression": "ミステリアス",
+    "notes": [
+      "カシスの葉",
+      "ブルガリアンローズ"
+    ],
+    "description": "葉の青さとローズの対比。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-011",
+    "brand": "Diptyque",
+    "name": "EAU DUELLE EDP",
+    "family": "アンバー",
+    "texture": [
+      "ウォーム",
+      "スモーキー"
+    ],
+    "impression": "センシュアル",
+    "notes": [
+      "バニラ",
+      "ピンクペッパー",
+      "インセンス"
+    ],
+    "description": "甘さと煙の陰影を持つバニラ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-012",
+    "brand": "BYREDO",
+    "name": "GYPSY WATER",
+    "family": "ウッディ",
+    "texture": [
+      "フレッシュ",
+      "ソフト"
+    ],
+    "impression": "カジュアル",
+    "notes": [
+      "ベルガモット",
+      "ジュニパー",
+      "パインニードル",
+      "サンダルウッド"
+    ],
+    "description": "森林の爽やかさと柔らかさ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-013",
+    "brand": "BYREDO",
+    "name": "BAL D’AFRIQUE",
+    "family": "シトラス",
+    "texture": [
+      "フレッシュ",
+      "ラウンド"
+    ],
+    "impression": "エレガント",
+    "notes": [
+      "ベルガモット",
+      "ネロリ",
+      "マリーゴールド",
+      "ベチバー",
+      "ムスク"
+    ],
+    "description": "明るく洗練されたシトラスフローラル。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-014",
+    "brand": "BYREDO",
+    "name": "BLANCHE",
+    "family": "フローラル",
+    "texture": [
+      "ソーピー",
+      "クリーン"
+    ],
+    "impression": "ミニマル",
+    "notes": [
+      "アルデヒド",
+      "ローズ",
+      "ムスク"
+    ],
+    "description": "洗いたての布を思わせる清潔感。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-015",
+    "brand": "Maison Margiela",
+    "name": "LAZY SUNDAY MORNING",
+    "family": "ムスキー",
+    "texture": [
+      "ソーピー",
+      "ソフト"
+    ],
+    "impression": "コンフォーティング",
+    "notes": [
+      "スズラン",
+      "アイリス",
+      "ホワイトムスク"
+    ],
+    "description": "洗いたてのシーツのような柔らかさ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-016",
+    "brand": "Maison Margiela",
+    "name": "LETTER NEVER SENT",
+    "family": "ウッディ",
+    "texture": [
+      "ドライ",
+      "インキー"
+    ],
+    "impression": "ミステリアス",
+    "notes": [
+      "インクを思わせるアコード",
+      "ウッディノート"
+    ],
+    "description": "インクと木を連想する静かな個性。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-017",
+    "brand": "Jo Malone London",
+    "name": "TUBEROSE ANGELICA",
+    "family": "フローラル",
+    "texture": [
+      "クリーミー",
+      "リッチ"
+    ],
+    "impression": "センシュアル",
+    "notes": [
+      "チューベローズ",
+      "アンジェリカ",
+      "アンバーウッド"
+    ],
+    "description": "白い花の濃密さと深み。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-018",
+    "brand": "Jo Malone London",
+    "name": "ENGLISH PEAR & FREESIA",
+    "family": "フルーティ",
+    "texture": [
+      "フレッシュ",
+      "ソフト"
+    ],
+    "impression": "エレガント",
+    "notes": [
+      "ペアー",
+      "フリージア",
+      "パチョリ"
+    ],
+    "description": "みずみずしい果実と花。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-019",
+    "brand": "LOEWE",
+    "name": "001 MAN",
+    "family": "ウッディ",
+    "texture": [
+      "ウォーム",
+      "ソフト"
+    ],
+    "impression": "シック",
+    "notes": [
+      "ウッディ",
+      "ムスク",
+      "スパイス系のニュアンス"
+    ],
+    "description": "落ち着きのある柔らかなウッディ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-020",
+    "brand": "LOEWE",
+    "name": "001 WOMAN",
+    "family": "フローラル",
+    "texture": [
+      "ソフト",
+      "ウォーム"
+    ],
+    "impression": "エレガント",
+    "notes": [
+      "フローラル",
+      "ムスク",
+      "アンバー系のニュアンス"
+    ],
+    "description": "柔らかく温かなフローラル。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-021",
+    "brand": "Aesop",
+    "name": "TACIT",
+    "family": "アロマティック",
+    "texture": [
+      "シャープ",
+      "フレッシュ"
+    ],
+    "impression": "モダン",
+    "notes": [
+      "ユズ",
+      "バジル",
+      "ベチバー"
+    ],
+    "description": "ハーブと柑橘のシャープな清涼感。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-022",
+    "brand": "Aesop",
+    "name": "EIDESIS",
+    "family": "アンバー",
+    "texture": [
+      "ウォーム",
+      "スパイシー"
+    ],
+    "impression": "センシュアル",
+    "notes": [
+      "ブラックペッパー",
+      "サンダルウッド",
+      "樹脂"
+    ],
+    "description": "温かな樹脂とウッドの深み。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-023",
+    "brand": "Aesop",
+    "name": "HWYL",
+    "family": "ウッディ",
+    "texture": [
+      "スモーキー",
+      "アーシー"
+    ],
+    "impression": "ミステリアス",
+    "notes": [
+      "ヒノキ",
+      "サイプレス",
+      "ベチバー"
+    ],
+    "description": "森と焚き火を思わせる渋さ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-024",
+    "brand": "Aesop",
+    "name": "MARRAKECH INTENSE",
+    "family": "スパイシー",
+    "texture": [
+      "ウォーム",
+      "リッチ"
+    ],
+    "impression": "エキゾチック",
+    "notes": [
+      "カルダモン",
+      "クローブ",
+      "サンダルウッド"
+    ],
+    "description": "濃密で異国情緒のあるスパイス。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-025",
+    "brand": "Aesop",
+    "name": "MIRACETI",
+    "family": "アンバー",
+    "texture": [
+      "スモーキー",
+      "リッチ"
+    ],
+    "impression": "ダーク",
+    "notes": [
+      "ラブダナム",
+      "アンブレット",
+      "ベンゾイン"
+    ],
+    "description": "重厚な樹脂と温かさ。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-026",
+    "brand": "SHIRO",
+    "name": "WHITE LILY",
+    "family": "フローラル",
+    "texture": [
+      "クリーン",
+      "ソフト"
+    ],
+    "impression": "エレガント",
+    "notes": [
+      "ホワイトリリー",
+      "グリーンノート"
+    ],
+    "description": "透明感のある柔らかな花の香り。",
+    "source_status": "editorial_unverified"
+  },
+  {
+    "id": "fragrance-027",
+    "brand": "THoO",
+    "name": "THE TIME",
+    "family": "アロマティック",
+    "texture": [
+      "フレッシュ",
+      "ソフト"
+    ],
+    "impression": "コンフォーティング",
+    "notes": [
+      "ティー",
+      "ベルガモット",
+      "ハーブ系のニュアンス"
+    ],
+    "description": "お茶の落ち着きと爽やかさ。",
+    "source_status": "editorial_unverified"
+  }
+]
