@@ -1640,8 +1640,13 @@
     "sales_status": "unknown",
     "official_url": "https://4711.com/en/products/4711-echt-kolnisch-wasser-splash",
     "image": {
-      "url": null,
-      "rights": "unconfirmed"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/4711.JPG",
+      "rights": "CC BY-SA 3.0",
+      "author": "Riggwelter",
+      "source": "https://commons.wikimedia.org/wiki/File:4711.JPG",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "2008年撮影の参考写真。現在のパッケージとは異なる場合があります。",
+      "checked_at": "2026-10-27"
     },
     "publication_status": "published",
     "facts": {
