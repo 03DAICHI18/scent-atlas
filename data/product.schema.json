@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KAORINK products",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "brand",
+      "name",
+      "publication_status",
+      "facts",
+      "inference",
+      "sources"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "brand": {
+        "type": "string",
+        "minLength": 1
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "publication_status": {
+        "enum": [
+          "pending",
+          "published"
+        ]
+      },
+      "official_url": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "facts": {
+        "type": "object"
+      },
+      "inference": {
+        "type": "object"
+      },
+      "sources": {
+        "type": "array"
+      }
+    }
+  }
+}
