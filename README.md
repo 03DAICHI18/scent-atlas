@@ -2,6 +2,14 @@
 
 静的な香水ガイド。`data/perfumes.json` に香水情報（27件）、`data/scenes.json` にシーン別セレクト、`data/glossary.json` に用語集を保存。
 
+## サイトURL
+
+- 既存プレビュー：https://scent-atlas-preview.vercel.app/
+- GitHubリポジトリ：https://github.com/03DAICHI18/scent-atlas
+
+既存プレビューにはVercelへのログインが必要な場合があります。
+このリポジトリとVercelの自動デプロイ連携は設定待ちです。既存プレビューは、このリポジトリの最新内容が自動反映される状態ではありません。連携完了後、公開URLと反映状況を更新します。
+
 ## 更新方法
 1. `data/perfumes.json` の配列に既存の形式で新しい香水を追加。`id` は重複しない値を使用。
 2. JSONの構文と重複を検証。
