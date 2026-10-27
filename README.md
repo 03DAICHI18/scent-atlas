@@ -1,22 +1,25 @@
-# SCENT ATLAS
+# KAORINK（カオリンク）
 
-静的な香水ガイド。`data/perfumes.json` に香水情報（27件）、`data/scenes.json` にシーン別セレクト、`data/glossary.json` に用語集を保存。
+香りを知る。香りとつながる。
 
-## サイトURL
+公式情報とAIによる解釈を区別するフレグランス図鑑。
 
-- 既存プレビュー：https://scent-atlas-preview.vercel.app/
-- GitHubリポジトリ：https://github.com/03DAICHI18/scent-atlas
+## URL
 
-既存プレビューにはVercelへのログインが必要な場合があります。
-このリポジトリとVercelの自動デプロイ連携は設定待ちです。既存プレビューは、このリポジトリの最新内容が自動反映される状態ではありません。連携完了後、公開URLと反映状況を更新します。
+既存プレビュー：https://scent-atlas-preview.vercel.app/
+リポジトリ：https://github.com/03DAICHI18/scent-atlas
 
-## 更新方法
-1. `data/perfumes.json` の配列に既存の形式で新しい香水を追加。`id` は重複しない値を使用。
-2. JSONの構文と重複を検証。
-3. GitHubへコミットし、VercelのGit連携があれば自動デプロイ。
+KAORINK版は開発中。旧プレビューへの反映とGit連携は未完了。
 
-## ローカル表示
-`python3 -m http.server 8000` を起動し、`http://localhost:8000` を開く。`file://` 直開きではfetch制限が発生する場合あり。
+## 開発
 
-## データ品質
-既存の香調・ノート・説明は会話を元にした編集上の暫定情報。`source_status: editorial_unverified` は未検証を示し、公式発表と区別する。
+`SITE_URL=https://公開先ドメイン python3 build.py`
+
+`python3 -m http.server 8000 --directory dist`
+
+`data/products.json`が新しい正本。旧`data/perfumes.json`と9シーン・用語集を保持。publishedのみHTMLを生成し、pendingは非公開。出典と公式ノートを検証してから公開する。
+
+登録基準：EDITORIAL.md
+進捗と未完了事項：STATUS.md
+
+画像は利用許諾未確認のため未掲載。写真の代わりの文字表示は実商品の画像ではない。
